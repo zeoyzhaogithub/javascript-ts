@@ -1,2 +1,3 @@
-# vuePro
-vue.js学习笔记
+# javascript
+
+js学习笔记
